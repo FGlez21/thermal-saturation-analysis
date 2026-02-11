@@ -21,4 +21,4 @@ Under high-demand conditions (ZIP-code concentration), diverter gate solenoids e
 - **Documentation:** LaTeX (IEEEtran class), TikZ for causal flowcharts.
 
 ---
-**Author: Francisco González** *Electronic Engineer | [cite_start]Maintenance Mechanic, USPS Chicago P&DC* 
+**Author: Francisco González** *Electronic Engineer | Maintenance Mechanic, USPS Chicago P&DC* 
